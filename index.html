@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammed Groceries</title>
+	<link rel="StyleSheet" href="StyleSheet/styles.css">
+	<link rel="icon" href="images/logo.png" type="image/png">
+
+</head>
+
+<body>
+    <!-- Website Header -->
+    <Header> 
+     <h1>Mohammed Groceries</h1>
+	</header>
+	<!-- Business Logo -->
+	 <img src="images/logo.png" alt="Mohammed Groceries Logo" width="200">
+	<!-- Navigation Bar -->
+	<nav>
+     <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+     </ul>
+    </nav>
+	
+	 <!-- Hero Image -->
+	<img src="images/Hero.png" alt="Shopfront of Mohammed Groceries" style="width:100%; height:auto;">
+	
+
+	 <!-- Main Business Content -->
+    <main>
+	<!-- About the Store -->
+     <p>
+        Mohammed Groceries is a well-established convenience store located at 33 Amatola Road, Finsbury, Randfontein.
+		Owned and operated by Mr. Mohammed Dulabai, the store has become a cornerstone of the local community. 
+		With over 10 years of trusted service, it is known not just for its wide range of everyday essentials, but also for its warm and reliable customer care.
+		The store is moderately sized with two neat aisles, making it easy for customers to find what they need without feeling overwhelmed.
+		The setup is simple and welcoming, offering a shopping experience that is quick, convenient, and personal.
+		People of all ages and backgrounds shop here regularly, and it’s not unusual to find loyal customers chatting with Mr. Mohammed as they shop.
+		His approachable nature and community-oriented mindset have made the store a familiar and comforting presence in the neighborhood.
+     </p>
+    <!-- Products and Services -->
+     <p>
+        Mohammed Groceries stocks a variety of essential products catering to the daily needs of families and individuals. 
+		Customers can find fresh vegetables, basic cooking ingredients like sugar, flour, and milk, as well as snacks, candy, and cold beverages. 
+		The store also supplies household and personal care items such as toiletries, candles, and cleaning supplies.
+		What makes the store stand out is that it occasionally offers small home essentials like plastic chairs, mini storage items, or kitchen utensils,making it more than just a grocery store.
+		In times of urgency or late evening runs, residents of Finsbury often rely on Mohammed Groceries for quick access to essentials.
+		It serves as a practical and reliable solution for anyone needing last minute items or those who prefer not to travel far for basic needs.
+		Over time, the store has come to understand the preferences of the community and often adjusts its stock accordingly.
+     </p>
+    <!-- Reason for Creating Website -->
+     <p>
+        The reason I chose to design a website for Mohammed Groceries is because it is more than just a local store,it is a part of our community’s identity. 
+		My family and I have known Mr. Mohammed for many years, and we’ve grown to admire not only his strong work ethic but also his generosity and understanding. 
+		For example, if someone is short by a few rands, he often allows them to take the item and return later with the rest of the money which is something that reflects his deep care for his customers.
+		The store has never had a digital presence, and I believe creating a website would help it grow by attracting more customers, especially younger people who prefer looking up products or store hours online.
+		This project also gives me a chance to apply my skills meaningfully and give back to a business that has served me and my neighborhood with honesty and kindness for over a decade.
+     </p>
+	<!-- Special Promotion Highlight -->
+	 <p style="color: red; font-weight: bold; background-color: yellow; padding: 5px;">
+    Special Promotion: Buy 2 get 1 free on any of these household cleaning items (Mr MIN funiture spray,Handyandy and Sunlight dishwashing liquid)!sale ends 03 August 2025
+     </p>
+
+ <div></div>
+ 
+ <figure>
+    <figcaption></figcaption>
+</figure>
+
+</main>
+
+     <!-- Footer with Contact Info -->
+<footer>
+    <p>
+        📞 <a href="tel:+27747386511">+27 74 738 6511</a><br>
+        ✉️ <a href="mailto:mohammeddulabai@gmail.com">mohammeddulabai@gmail.com</a><br>
+        &copy; 2025 Groceries
+    </p>
+</footer>
+
+</body>
+</html>
